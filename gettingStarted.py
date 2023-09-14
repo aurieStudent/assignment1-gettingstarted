@@ -28,7 +28,7 @@ def welcome_assignment_answers(question):
         ### you should understand why this else case should be included
         ### what happens if there is a typo in one of the questions?
         ### maybe put something here to flag an issue and catch errors
-        answer = "This is not my beautiful wife! This is not my beautiful car! How did I get here?"
+        answer = "dfcc82c01a80c8f2e45b871e9cb5d6a1789ce3ee8e7895dd0a57529dbc2c42a7"
     return(answer)
 # Complete all the questions.
 
@@ -40,7 +40,7 @@ if __name__ == "__main__":
     for debug_question in questions:
         print(debug_question)
         print(welcome_assignment_answers(debug_question))
-        print("dfcc82c01a80c8f2e45b871e9cb5d6a1789ce3ee8e7895dd0a57529dbc2c42a7")
+        print("This is dumb")
 
 #Questions:
 #"In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
