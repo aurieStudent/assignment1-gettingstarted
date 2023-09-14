@@ -40,7 +40,7 @@ if __name__ == "__main__":
     for debug_question in questions:
         print(debug_question)
         print(welcome_assignment_answers(debug_question))
-        print(' ')
+        print("dfcc82c01a80c8f2e45b871e9cb5d6a1789ce3ee8e7895dd0a57529dbc2c42a7")
 
 #Questions:
 #"In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
