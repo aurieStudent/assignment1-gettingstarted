@@ -2,6 +2,7 @@
 ### Input - All nine questions given in the assignment.
 ### Output - The right answer for the specific question.
 ### Aurielle CS6843
+ #This is Aurielle I am taking this course again and have approval to reuse this code.
 
 def welcome_assignment_answers(question):
     #Students do not have to follow the skeleton for this assignment.
